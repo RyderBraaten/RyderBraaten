@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryder
-- I am nine years old
 - 👀 I play Roblox
+- I just started learning to program, and creating Roblox games.
 - I am currently learning the basics of computer science and learning to program using c/c++ as well as LUA for use in creating Roblox games.
 - Message me if you are interesting in collaborating on Roblox projects
 
