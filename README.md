@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ryder
 - 👀 I play Roblox
-- I just started learning to program, and creating Roblox games.
-- I am currently learning the basics of computer science and learning to program using c/c++ as well as LUA for use in creating Roblox games.
-- Message me if you are interesting in collaborating on Roblox projects
+- I just started learning to program in c/c++ as well as scripting Roblox games in LUA.
+- I am taking courses and learning the vast area of computer science.
+- Message me if you are interested in collaborating on Roblox!
 
 <!---
 RyderBraaten/RyderBraaten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
